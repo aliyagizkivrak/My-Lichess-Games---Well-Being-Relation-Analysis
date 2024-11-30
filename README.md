@@ -1,4 +1,4 @@
-# My Lichess-Games - Well-being Relation Analysis
+# My Lichess Games - Well-being Relation Analysis
 
 ## Description
 
