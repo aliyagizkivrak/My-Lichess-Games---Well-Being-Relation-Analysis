@@ -24,6 +24,8 @@ By conducting this analysis, I hope to gain insights into my playstyle, identify
 - Proximity to Exam Dates: Assessing the impact of academic stress on gameplay.
 - Lecture-Time Games: Comparing the outcomes of games played during lectures with those played at other times.
 - Performance After Breaks: Analyzing whether long intervals without playing chess correlate with a decline in performance upon returning.
+- Frequency of Blunders: Evaluating how often I make critical mistakes (blunders) during games and identifying patterns or conditions that might contribute to these errors.
+- Frequency of Checks: Analyzing how frequently I place my opponent’s king in check, which can provide insights into my level of aggressiveness or tactical awareness during gameplay.
 
 Through these analyses, I aim to understand how external factors and life circumstances influence my chess performance and to use these findings to improve my decision-making skills, both in chess and beyond.
 
